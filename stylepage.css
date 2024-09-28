@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    padding: 5px;
+    height: auto;
+    display: flex;
+    background-color: lightblue;
+   
+}
+.nav {
+    position: sticky;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.nav li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.form {
+    text-align: center;
+}
